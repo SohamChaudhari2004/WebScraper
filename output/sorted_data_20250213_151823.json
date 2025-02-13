@@ -1,0 +1,68 @@
+{
+    "listings": [
+        {
+            "Pokemon ": "Bulbasaur",
+            "price": "\u00a363.00"
+        },
+        {
+            "Pokemon ": "Ivysaur",
+            "price": "\u00a387.00"
+        },
+        {
+            "Pokemon ": "Venusaur",
+            "price": "\u00a3105.00"
+        },
+        {
+            "Pokemon ": "Charmander",
+            "price": "\u00a348.00"
+        },
+        {
+            "Pokemon ": "Charmeleon",
+            "price": "\u00a3165.00"
+        },
+        {
+            "Pokemon ": "Charizard",
+            "price": "\u00a3156.00"
+        },
+        {
+            "Pokemon ": "Squirtle",
+            "price": "\u00a3130.00"
+        },
+        {
+            "Pokemon ": "Wartortle",
+            "price": "\u00a3123.00"
+        },
+        {
+            "Pokemon ": "Blastoise",
+            "price": "\u00a376.00"
+        },
+        {
+            "Pokemon ": "Caterpie",
+            "price": "\u00a373.00"
+        },
+        {
+            "Pokemon ": "Metapod",
+            "price": "\u00a3148.00"
+        },
+        {
+            "Pokemon ": "Butterfree",
+            "price": "\u00a3162.00"
+        },
+        {
+            "Pokemon ": "Weedle",
+            "price": "\u00a325.00"
+        },
+        {
+            "Pokemon ": "Kakuna",
+            "price": "\u00a3148.00"
+        },
+        {
+            "Pokemon ": "Beedrill",
+            "price": "\u00a3168.00"
+        },
+        {
+            "Pokemon ": "Pidgey",
+            "price": "\u00a3159.00"
+        }
+    ]
+}

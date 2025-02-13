@@ -1,0 +1,84 @@
+{
+    "listings": [
+        {
+            "pokemon": "Bulbasaur",
+            "price": "\u00a363.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Ivysaur",
+            "price": "\u00a387.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Venusaur",
+            "price": "\u00a3105.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Charmander",
+            "price": "\u00a348.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Charmeleon",
+            "price": "\u00a3165.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Charizard",
+            "price": "\u00a3156.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Squirtle",
+            "price": "\u00a3130.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Wartortle",
+            "price": "\u00a3123.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Blastoise",
+            "price": "\u00a376.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Caterpie",
+            "price": "\u00a373.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Metapod",
+            "price": "\u00a3148.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Butterfree",
+            "price": "\u00a3162.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Weedle",
+            "price": "\u00a325.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Kakuna",
+            "price": "\u00a3148.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Beedrill",
+            "price": "\u00a3168.00",
+            "basket": "Add to basket"
+        },
+        {
+            "pokemon": "Pidgey",
+            "price": "\u00a3159.00",
+            "basket": "Add to basket"
+        }
+    ]
+}
